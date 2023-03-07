@@ -1,0 +1,7 @@
+Visual Studio Code is also called as VS Code.
+It is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS.
+Users can change the theme, keyboard shortcuts, preferences, and install extensions that add functionality.
+VS Code includes basic support for most common programming languages which includes syntax highlighting, bracket matching, code folding, and configurable snippets. 
+VS Code also ships with IntelliSense for JavaScript, TypeScript, JSON, CSS, and HTML, as well as debugging support for Node.js.
+VS Code can be extended via extensions, available through a central repository.
+It has an ability to create extensions that add support for new languages, themes, debuggers, time travel debuggers, perform static code analysis, and add code linters using the Language Server Protocol.
