@@ -1,0 +1,30 @@
+Git is used for software development projects.
+Git is a DevOps tool 
+It is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+It supports rapid branching and merging.
+First topic covered is about perfect commit.
+It have 2 parts . one is right changes and the a\other part is good commit message.
+so a good commit should be separated equally.
+The perfect commit message has a body and a subject
+Int hat subject has a summary of what happened and the body has more detailed explanation.
+second topic is about BRANCHING STRATEGIES.
+It has written conventions, Integrating changes and structure releases.
+Integrating changes has mainline development which is mainly integrating.
+Feature Branches are of two types. ie , Long Running and Short Lived Branches.
+Long running exixt for the comlete lifecycle of the project. It has no direct commits.
+Short lived is used for new features,bug fixes , etc,..
+it can be deleted after integration ie, after merge/rebase.
+Example for Branching strategies are:
+GitHub Flow and GitFlow
+Third topic is Pull requests.
+It is used for communicating and reviewing about code.
+It can be used to contribute code to other repositories also.
+Fourth topic covered is merge conflicts.
+When integrating commits from different sources conflicts occur.
+Integrating is not only limited for merging branches.
+for a flawless process, when contradictory changes happen merging changes can be done in git.
+We can also undo and start a new conflict aswell.
+Conflicts are just a character file.
+Conflict can be solved by simply cleaning up the file.
+Merge vs rebase is the last topic about.
+
