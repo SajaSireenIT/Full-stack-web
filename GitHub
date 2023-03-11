@@ -1,0 +1,23 @@
+Git is free and open source version control system.
+Version control is basically the management of changes to documents , computer programs, large web sites and other collections of information.
+When we update a code we can save it in git again and again.
+We can even store the information which we done previously and we can look bach into what we have done.
+Terms used are as follows:
+directory - folder,
+terminal or command line - Interface for text commands. terminal is used to run the programme or to install the command,
+CLI - Command Line Interface,
+cd- Change Directory,
+Code Editor- Word processor for writing code,
+Repository - A place where our project can be store also can be used as a folder,
+Git - It is a tool that tracks the changes in our code whereas,
+GitHub - is a website where we host our repository online,
+Git commands:
+Clone - bring repository that is hosted somewhere like GitHub into a folder on our local machine.
+add - track our files and changes in Git.
+commit - save files in Git.
+push - upload Git commands from remote repo like GitHub.
+pull - Download changes from remote repo to local machine ie., the oppposite of push.
+Repository is basically a project , where all our coding files,and folders will be stored.
+README file is found in most of the GitHub which contains the text details of our project.
+
+
