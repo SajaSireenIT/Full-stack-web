@@ -1,0 +1,17 @@
+Right clicl on windows and select inspect elements will open developer tools in chrome.
+Chrome Developer Tools is a comprehensive toolkit for developers, built directly into the Chrome browser. 
+These tools helps to edit web pages in real time, diagnose problems more quickly, and build better websites faster.
+There will be three tabs at the top of the Developer Tools window.
+By default, Developer Tools opens with the Elements tab open.
+Elements tool will open the HTML page for coding.
+Console deals with JavaScript.
+In Console, you can write JavaScript to interact with the web page you’re viewing.
+It also lets you write messages to yourself in the JavaScript of websites you’re building, which then show up in Console to show that the JS was executed.
+The Sources tab shows us where all the files that were used to make the website are stored and lets us inspect them.
+The Network tab shows all the files that are loading in the URL we’re looking at.
+We'll get a waterfall and deep data on all the items loaded, including initiator and time to load that element.
+Application shows you what’s in our browser storage: in-browser databases like Web SQL, local storage, and more. 
+It also gives you granular control over your cookies.
+Security gives us basic security information, letting us view a site’s HTTPS certificate and TLS status.
+Audits, which autogenerates reports on site functionality and structure to help developers improve performance.
+Developer Tools is updated with each new Chrome release. 
