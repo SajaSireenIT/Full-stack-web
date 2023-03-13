@@ -15,3 +15,4 @@ It also gives you granular control over your cookies.
 Security gives us basic security information, letting us view a site’s HTTPS certificate and TLS status.
 Audits, which autogenerates reports on site functionality and structure to help developers improve performance.
 Developer Tools is updated with each new Chrome release. 
+This tool is useful for web developers.
