@@ -19,5 +19,6 @@ push - upload Git commands from remote repo like GitHub.
 pull - Download changes from remote repo to local machine ie., the oppposite of push.
 Repository is basically a project , where all our coding files,and folders will be stored.
 README file is found in most of the GitHub which contains the text details of our project.
+touch command is used to create and saves a blank file named newfile.txt.
 
 
