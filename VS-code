@@ -5,3 +5,4 @@ VS Code includes basic support for most common programming languages which inclu
 VS Code also ships with IntelliSense for JavaScript, TypeScript, JSON, CSS, and HTML, as well as debugging support for Node.js.
 VS Code can be extended via extensions, available through a central repository.
 It has an ability to create extensions that add support for new languages, themes, debuggers, time travel debuggers, perform static code analysis, and add code linters using the Language Server Protocol.
+VS code is an integrated development environment also known as IDE.
