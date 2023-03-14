@@ -6,3 +6,4 @@ VS Code also ships with IntelliSense for JavaScript, TypeScript, JSON, CSS, and 
 VS Code can be extended via extensions, available through a central repository.
 It has an ability to create extensions that add support for new languages, themes, debuggers, time travel debuggers, perform static code analysis, and add code linters using the Language Server Protocol.
 VS code is an integrated development environment also known as IDE.
+VS is slower when it comes to performing on different platforms.
